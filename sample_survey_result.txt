@@ -1,0 +1,103 @@
+======================================================================
+Column Name :  Name something you never want your kid to bring home.
+======================================================================
+====== column statistics: ======
+count        36
+unique       34
+top       Drugs
+freq          3
+Name: Name something you never want your kid to bring home., dtype: object
+====== column value counts: ======
+drugs                         6
+rabid creature                1
+a snake                       1
+a gun                         1
+a convict                     1
+legos                         1
+a pet snake                   1
+an attitude                   1
+food                          1
+alcohol                       1
+a child                       1
+a dead animal carcass         1
+a bad attitude                1
+radioactive materials.        1
+homework                      1
+pbs kids                      1
+bad grades                    1
+a vape                        1
+a bruise                      1
+disease                       1
+a girlfriend                  1
+a corpse                      1
+dead animal                   1
+significant other             1
+lice                          1
+a bear                        1
+snake                         1
+a my hero academia cosplay    1
+a bitten eraser               1
+a boy                         1
+a wild animal                 1
+Name: Name something you never want your kid to bring home., dtype: int64
+======================================================================
+Column Name :  Name a profession that needs a raise.
+======================================================================
+====== column statistics: ======
+count          36
+unique         24
+top       Teacher
+freq            8
+Name: Name a profession that needs a raise., dtype: object
+====== column value counts: ======
+teacher                13
+teachers                5
+teaching                5
+docters                 1
+a mcdonald's worker     1
+mcdonalds worker        1
+deli clerks             1
+these teachers          1
+disney                  1
+therapists              1
+janitors                1
+pizza delivery guy      1
+cafeteria workers       1
+car mechanic            1
+nurses                  1
+doctors                 1
+Name: Name a profession that needs a raise., dtype: int64
+======================================================================
+Column Name :  Name something that adults are afraid of, even though they shouldn’t be.
+======================================================================
+====== column statistics: ======
+count          36
+unique         29
+top       Heights
+freq            3
+Name: Name something that adults are afraid of, even though they shouldn’t be., dtype: object
+====== column value counts: ======
+taxes                                              5
+heights                                            4
+kids                                               3
+spiders                                            3
+teenagers                                          2
+bugs                                               2
+tik tok                                            1
+the irs                                            1
+ghosts                                             1
+bad children                                       1
+tiktok                                             1
+the dark                                           1
+their children growing up                          1
+students                                           1
+public speaking                                    1
+boss                                               1
+girlfriends/boyfriends                             1
+a bear                                             1
+rollercoasters                                     1
+their boss asking them to come in for a meeting    1
+dong their taxes                                   1
+children                                           1
+technology                                         1
+Name: Name something that adults are afraid of, even though they shouldn’t be., dtype: int64
